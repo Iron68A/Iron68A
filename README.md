@@ -1,4 +1,4 @@
-# [FR] Bienvenu sur mon profil ! 
+# [FR] Bienvenue sur mon profil ! 
 
 Je suis étudiant en école d'ingénieur informatique, je poste beaucoup de projet lié à mon cursus;
 
